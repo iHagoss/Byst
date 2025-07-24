@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MadCapSynonyms xml:lang="nl">
+    <!-- saved from url=(0016)http://localhost -->
+    <Groups />
+    <Directional>
+        <DirectionalSynonym Stem="true" From="Duese" To="dus" FromStem="dues" />
+        <DirectionalSynonym Stem="true" From="Schneidduese" To="schneiddus" FromStem="schneiddues" />
+        <DirectionalSynonym Stem="true" From="Duesenwechsler" To="dusenwechsler" FromStem="duesenwechsler" />
+        <DirectionalSynonym Stem="true" From="Duesenkoerper" To="dusenkorper" FromStem="duesenkoerper" />
+        <DirectionalSynonym Stem="true" From="Duesentyp" To="dusentyp" FromStem="duesentyp" />
+        <DirectionalSynonym Stem="true" From="Duesenplaetze" To="dusenplatz" FromStem="duesenplaetz" />
+        <DirectionalSynonym Stem="true" From="Duesenverriegelung" To="dusenverriegelung" FromStem="duesenverriegelung" />
+        <DirectionalSynonym Stem="true" From="Duesenzentrum" To="dusenzentrum" FromStem="duesenzentrum" />
+        <DirectionalSynonym Stem="true" From="Duesenbruch" To="dusenbruch" FromStem="duesenbruch" />
+        <DirectionalSynonym Stem="true" From="Duesenreinigung" To="dusenreinigung" FromStem="duesenreinigung" />
+        <DirectionalSynonym Stem="true" From="Duesenabstand" To="dusenabstand" FromStem="duesenabstand" />
+        <DirectionalSynonym Stem="true" From="Zentrierduese" To="zentrierdus" FromStem="zentrierdues" />
+        <DirectionalSynonym Stem="true" From="Duesenueberwachung" To="dusenuberwachung" FromStem="duesenueberwachung" />
+        <DirectionalSynonym Stem="true" From="Duesenbohrung" To="dusenbohrung" FromStem="duesenbohrung" />
+    </Directional>
+</MadCapSynonyms>

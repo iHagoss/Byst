@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebHelpSystem DefaultUrl="Content/Introduction/INT_DES_Welcome.htm" Toc="Data/Tocs/Main.js" Index="Data/Index.js" Concepts="Data/Concepts.js" Glossary="Data/Glossary.js" SearchDatabase="Data/Search.js" Synonyms="Data/Synonyms.xml" PathToScriptsFolder="Resources/Scripts/" SkinName="HTML5" SkinID="HTML5" Multilingual="true" Skins="HTML5" BuildTime="19-8-2024 00:09:09" BuildVersion="20.0.8886.22535" TargetType="WebHelp2" SkinTemplateFolder="Skin/" InPreviewMode="false" TopNavTocPath="true" MoveOutputContentToRoot="true" ReplaceReservedCharacters="false" MakeFileLowerCase="false" UseCustomTopicFileExtension="false" PreventExternalUrls="false" EnableResponsiveOutput="true" IncludeGlossarySearchResults="true" ResultsPerPage="20" FeaturedSnippetsScopeID="AllFiles" FeaturedSnippetsResults="1" KnowledgePanelResults="1" IncludeMicroContent="true" xml:lang="nl" LanguageName="Dutch" SearchEngine="MadCapSearch" IncludeCSHRuntime="true" DebugMode="false" ShowMadCapBacklink="false" HasELearning="false">
+    <CatapultSkin Version="6" SkinType="WebHelp2" Comment="HTML5 skin" Anchors="Width,Height" Width="1600px" Height="600px" Top="285px" Left="448px" Bottom="285px" Right="448px" Tabs="TOC,Index,Glossary" DefaultTab="TOC" UseBrowserDefaultSize="false" UseDefaultBrowserSetup="false" NavigationLinkTop="false" Title="Home" AutoSyncTOC="true" NavigationLinkBottom="false" CommentsInTopic="false" RemoveImagesOnSave="true" BrowserSetup="Toolbar,Menu,LocationBar,StatusBar,Resizable" EnableResponsiveOutput="true" Name="HTML5" SkinID="HTML5" SkinClass="_Skins_HTML5" HideNavOnStartup="False" LogoUrl="">
+        <Toolbar EnableCustomLayout="true" Buttons="SelectLanguage">
+            <Script />
+        </Toolbar>
+        <WebHelpOptions NavigationPaneWidth="320" NavigationPanePosition="Left" TabletBreakpoint="1200" HideNavigationOnStartup="false" />
+        <MicroContentOptions KnowledgePanelViewMode="PlainText" FeaturedSnippetsViewMode="Truncated" />
+        <ProxyOptions FAQProxyViewMode="DropDown" KnowledgeProxyViewMode="Truncated" PromotionProxyViewMode="PlainText" />
+    </CatapultSkin>
+</WebHelpSystem>

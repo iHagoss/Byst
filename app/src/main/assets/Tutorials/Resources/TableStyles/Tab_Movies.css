@@ -1,0 +1,1435 @@
+/*<meta Version="9" fileTags="TagSet_Status.Do Not Translate" />*/
+
+/* MadCap Table Style: */
+
+@media print
+{
+	mcTableStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		font-weight: bold;
+		color: #000000;
+	}
+
+	mcTableHeadStyle
+	{
+		separator-style: solid;
+		separator-width: 0px;
+	}
+
+	mcTableBodyStyle
+	{
+		
+	}
+}
+
+mcTableStyle
+{
+	name: Tab_Movies;
+	border-collapse: collapse;
+	cell-padding-left: 4px;
+	cell-padding-right: 4px;
+	cell-padding-top: 4px;
+	cell-padding-bottom: 4px;
+	max-id: 5;
+	orphans: 3;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	font-style: normal;
+	name: Spalte1;
+	id: 0;
+	text-align: left;
+	vertical-align: middle;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	name: Spalte2;
+	id: 1;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+	color: #696969;
+	font-size: 14pt;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	font-weight: bold;
+	background-color: #696969;
+	color: #ffffff;
+	vertical-align: middle;
+	name: Kopfzeile1;
+	id: 5;
+	separator-style: solid;
+	separator-width: 8px;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	font-weight: normal;
+	name: Body1;
+	id: 4;
+	vertical-align: middle;
+}
+
+/* Cell Styles: */
+
+@media print
+{
+	.TableStyle-Tab_Movies
+	{
+		border-spacing: 0px 0px;
+	}
+
+	.TableStyle-Tab_Movies-HeadE-Spalte1-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-HeadF-Spalte1-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-HeadD-Spalte1-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-HeadE-Spalte2-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-HeadF-Spalte2-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-HeadD-Spalte2-Kopfzeile1
+	{
+		border-bottom-width: 0px;
+		border-bottom-style: solid;
+	}
+
+	.TableStyle-Tab_Movies-FootI-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootI-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootE-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootE-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootF-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootF-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootH-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootH-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootD-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootD-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootC-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootC-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootB-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootB-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootA-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootA-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootG-Spalte2-
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-FootG-Spalte2- p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyI-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyI-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyE-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyE-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyF-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyF-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyH-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyH-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyD-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyD-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyC-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyC-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyB-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyB-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyA-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyA-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyG-Spalte2-Body1
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.TableStyle-Tab_Movies-BodyG-Spalte2-Body1 p
+	{
+		color: #000000;
+		font-weight: bold;
+	}
+}
+
+.TableStyle-Tab_Movies
+{
+	border-collapse: collapse;
+	orphans: 3;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-Tab_Movies-Column-Spalte1
+{
+	
+}
+
+.TableStyle-Tab_Movies-Column-Spalte2
+{
+	
+}
+
+.TableStyle-Tab_Movies-Head-Kopfzeile1
+{
+	
+}
+
+.TableStyle-Tab_Movies-HeadI-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadI-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadE-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadE-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadF-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadF-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadH-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadH-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadD-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadD-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadC-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadC-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadB-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadB-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadA-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadA-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadG-Spalte1-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadG-Spalte1-Kopfzeile1 p
+{
+	font-style: normal;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadI-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadI-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadE-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadE-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadF-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadF-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadH-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadH-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadD-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Tab_Movies-HeadD-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadC-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadC-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadB-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadB-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadA-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadA-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-HeadG-Spalte2-Kopfzeile1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 14pt;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: middle;
+	background-color: #696969;
+}
+
+.TableStyle-Tab_Movies-HeadG-Spalte2-Kopfzeile1 p
+{
+	font-size: 14pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootI-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootI-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootE-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootE-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootF-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootF-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootH-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootH-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootD-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootD-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootC-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootC-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootB-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootB-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootA-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootA-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootG-Spalte1-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootG-Spalte1- p
+{
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-FootI-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootI-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootE-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootE-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootF-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootF-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootH-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootH-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootD-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootD-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootC-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootC-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootB-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootB-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootA-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootA-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-FootG-Spalte2-
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-FootG-Spalte2- p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-Body-Body1
+{
+	
+}
+
+.TableStyle-Tab_Movies-BodyI-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyI-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyE-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyE-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyF-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyF-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyH-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyH-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyD-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyD-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyC-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyC-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyB-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyB-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyA-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyA-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyG-Spalte1-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyG-Spalte1-Body1 p
+{
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Tab_Movies-BodyI-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyI-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyE-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyE-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyF-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyF-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyH-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyH-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyD-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyD-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyC-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyC-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyB-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyB-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyA-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyA-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.TableStyle-Tab_Movies-BodyG-Spalte2-Body1
+{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-Tab_Movies-BodyG-Spalte2-Body1 p
+{
+	color: #696969;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
