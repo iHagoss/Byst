@@ -1,0 +1,14 @@
+var xmlHelpSystemData = "";
+xmlHelpSystemData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlHelpSystemData += '<WebHelpSystem DefaultUrl=\"Content/Introduction/INT_DES_Welcome.htm\" Toc=\"Data/Tocs/Main.js\" Index=\"Data/Index.js\" Concepts=\"Data/Concepts.js\" Glossary=\"Data/Glossary.js\" SearchDatabase=\"Data/Search.js\" Synonyms=\"Data/Synonyms.xml\" PathToScriptsFolder=\"Resources/Scripts/\" SkinName=\"HTML5\" SkinID=\"HTML5\" Multilingual=\"true\" Skins=\"HTML5\" BuildTime=\"19.08.2024 00:07:38\" BuildVersion=\"20.0.8886.22535\" TargetType=\"WebHelp2\" SkinTemplateFolder=\"Skin/\" InPreviewMode=\"false\" TopNavTocPath=\"true\" MoveOutputContentToRoot=\"true\" ReplaceReservedCharacters=\"false\" MakeFileLowerCase=\"false\" UseCustomTopicFileExtension=\"false\" PreventExternalUrls=\"false\" EnableResponsiveOutput=\"true\" IncludeGlossarySearchResults=\"true\" ResultsPerPage=\"20\" FeaturedSnippetsScopeID=\"AllFiles\" FeaturedSnippetsResults=\"1\" KnowledgePanelResults=\"1\" IncludeMicroContent=\"true\" xml:lang=\"de\" LanguageName=\"German\" SearchEngine=\"MadCapSearch\" IncludeCSHRuntime=\"true\" DebugMode=\"false\" ShowMadCapBacklink=\"false\" HasELearning=\"false\">';
+xmlHelpSystemData += '    <!-- saved from url=(0016)http://localhost -->';
+xmlHelpSystemData += '    <CatapultSkin Version=\"6\" SkinType=\"WebHelp2\" Comment=\"HTML5 skin\" Anchors=\"Width,Height\" Width=\"1600px\" Height=\"600px\" Top=\"285px\" Left=\"448px\" Bottom=\"285px\" Right=\"448px\" Tabs=\"TOC,Index,Glossary\" DefaultTab=\"TOC\" UseBrowserDefaultSize=\"false\" UseDefaultBrowserSetup=\"false\" NavigationLinkTop=\"false\" Title=\"Home\" AutoSyncTOC=\"true\" NavigationLinkBottom=\"false\" CommentsInTopic=\"false\" RemoveImagesOnSave=\"true\" BrowserSetup=\"Toolbar,Menu,LocationBar,StatusBar,Resizable\" EnableResponsiveOutput=\"true\" Name=\"HTML5\" SkinID=\"HTML5\" SkinClass=\"_Skins_HTML5\" HideNavOnStartup=\"False\" LogoUrl=\"\">';
+xmlHelpSystemData += '        <Toolbar EnableCustomLayout=\"true\" Buttons=\"SelectLanguage\">';
+xmlHelpSystemData += '            <Script />';
+xmlHelpSystemData += '        </Toolbar>';
+xmlHelpSystemData += '        <WebHelpOptions NavigationPaneWidth=\"320\" NavigationPanePosition=\"Left\" TabletBreakpoint=\"1200\" HideNavigationOnStartup=\"false\" />';
+xmlHelpSystemData += '        <MicroContentOptions KnowledgePanelViewMode=\"PlainText\" FeaturedSnippetsViewMode=\"Truncated\" />';
+xmlHelpSystemData += '        <ProxyOptions FAQProxyViewMode=\"DropDown\" KnowledgeProxyViewMode=\"Truncated\" PromotionProxyViewMode=\"PlainText\" />';
+xmlHelpSystemData += '    </CatapultSkin>';
+xmlHelpSystemData += '</WebHelpSystem>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('HelpSystem', xmlHelpSystemData);
